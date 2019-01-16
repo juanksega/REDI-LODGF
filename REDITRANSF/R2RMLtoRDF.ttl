@@ -1,0 +1,588 @@
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABREU_NARANJO__RINIER> <http://xmlns.com/foaf/0.1/family_name> "Abreu Naranjo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABRIL_SALTOS__RICARDO_VINICIO_> <http://xmlns.com/foaf/0.1/family_name> "Abril Saltos" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AALEMAN_PEREZ___REINALDO_DEMESIO> <http://xmlns.com/foaf/0.1/family_name> "Alemán Pérez " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AARIAS_GUTIERREZ___RUTH_IRENE_> <http://xmlns.com/foaf/0.1/family_name> "Arias Gutiérrez " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AASANZA_NOVILLO___GRISELDA_MERCEDES_> <http://xmlns.com/foaf/0.1/family_name> "Asanza Novillo " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AAUQUILLA_BLEMA___LUIS_ARMIJO_> <http://xmlns.com/foaf/0.1/family_name> "Auquilla Blema " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABANOL_PEREZ__CAROLINA> <http://xmlns.com/foaf/0.1/family_name> "Bañol Pérez" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABRAVO_MEDINA___CARLOS_ALFREDO> <http://xmlns.com/foaf/0.1/family_name> "Bravo Medina " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACABRERO_MIRET__FERRAN> <http://xmlns.com/foaf/0.1/family_name> "Cabrero Miret" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACERDA_MEJIA__VICTOR_RODRIGO> <http://xmlns.com/foaf/0.1/family_name> "Cerda Mejía" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACHAVEZ_ESPONDA___DUNIA_> <http://xmlns.com/foaf/0.1/family_name> "Chávez Esponda " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AECHEVERRIA_GUEVARA___MONICA_PAULINA_> <http://xmlns.com/foaf/0.1/family_name> "Echeverría Guevara " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AESPIN_ORTIZ__CLIMACO_GEOVANI> <http://xmlns.com/foaf/0.1/family_name> "Espín Ortiz" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGAMBOA_RIOS___MARIA_GERMANIA> <http://xmlns.com/foaf/0.1/family_name> "Gamboa Ríos " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGARCIA_QUINTANA___YUDEL_> <http://xmlns.com/foaf/0.1/family_name> "García Quintana " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGONZALEZ_RIVERA___JUAN_ELIAS> <http://xmlns.com/foaf/0.1/family_name> "González Rivera " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGUTIERREZ__DEL_POZO___DIEGO> <http://xmlns.com/foaf/0.1/family_name> "Gutiérrez  Del Pozo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AMANJARREZ__FUENTES___NELLY_NARCISA_> <http://xmlns.com/foaf/0.1/family_name> "Manjarrez  Fuentes " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ANEILL_%A0__DAVID_ALAN_> <http://xmlns.com/foaf/0.1/family_name> "Neill  " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APARDO_ENRIQUEZ___DALTON_> <http://xmlns.com/foaf/0.1/family_name> "Pardo Enríquez " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_MARTINEZ__AMAURY> <http://xmlns.com/foaf/0.1/family_name> "Pérez Martínez" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_QUINTANA___MANUEL_LAZARO_> <http://xmlns.com/foaf/0.1/family_name> "Pérez Quintana " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AQUEVEDO_TUMAILLI__VIVIANA_FERNANDA> <http://xmlns.com/foaf/0.1/family_name> "Quevedo Tumailli" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARADICE___MATTEO_> <http://xmlns.com/foaf/0.1/family_name> "Radice " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARAMIREZ_SANCHEZ__ALINA_> <http://xmlns.com/foaf/0.1/family_name> "Ramirez Sanchez" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARIVERO_GUERRA__AIXA_OFELIA> <http://xmlns.com/foaf/0.1/family_name> "Rivero Guerra" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARUIZ_MARMOL__EDISON_EDUARDO> <http://xmlns.com/foaf/0.1/family_name> "Ruiz Marmol" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASAMANIEGO_GUZMAN__EDISON_OSWALDO> <http://xmlns.com/foaf/0.1/family_name> "Samaniego Guzmàn" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASANCHO_AGUILERA___DAVID> <http://xmlns.com/foaf/0.1/family_name> "Sancho Aguilera " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATASAMBAY_SALAZAR__ANGELICA_MARIA> <http://xmlns.com/foaf/0.1/family_name> "Tasambay Salazar" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATORRES_NAVARRETE__BOLIER__SEGUNDO> <http://xmlns.com/foaf/0.1/family_name> "Torres Navarrete" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AUVIDIA_CABADIANA___HERNAN_ALBERTO> <http://xmlns.com/foaf/0.1/family_name> "Uvidia Cabadiana " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVARGAS_BURGOS__JULIO_CESAR_> <http://xmlns.com/foaf/0.1/family_name> "Vargas Burgos" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVIAMONTES_GARCES___MARIA_ISABEL_> <http://xmlns.com/foaf/0.1/family_name> "Viamontes Garcés " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADE_DECKER__MARIA__KATHARINA_ELISABETH> <http://xmlns.com/foaf/0.1/family_name> "De Decker" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADIEGUEZ_SANTANA___KAREL> <http://xmlns.com/foaf/0.1/family_name> "Dieguez Santana " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AFREILE_ALMEIDA__JORGE_ANTONIO> <http://xmlns.com/foaf/0.1/family_name> "Freile Almeida" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AHEREDIA_RENGIFO___MARCO_GERARDO> <http://xmlns.com/foaf/0.1/family_name> "Heredia Rengifo " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AACOSTA___ISMAEL_LEONARD> <http://xmlns.com/foaf/0.1/family_name> "Acosta " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APUERTA_DE_ARMADA__YORDANIS_GERARDO> <http://xmlns.com/foaf/0.1/family_name> "Puerta de Armada" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASABLON_COSSIO___NEYFE%A0> <http://xmlns.com/foaf/0.1/family_name> "Sablón Cossío " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVALLE_RAMIREZ__SEGUNDO_BENEDICTO> <http://xmlns.com/foaf/0.1/family_name> "Valle Ramirez" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABREU_NARANJO__RINIER> <http://xmlns.com/foaf/0.1/name> "Abreu Naranjo, Rinier" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABRIL_SALTOS__RICARDO_VINICIO_> <http://xmlns.com/foaf/0.1/name> "Abril Saltos, Ricardo Vinicio " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AALEMAN_PEREZ___REINALDO_DEMESIO> <http://xmlns.com/foaf/0.1/name> "Alemán Pérez , Reinaldo Demesio" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AARIAS_GUTIERREZ___RUTH_IRENE_> <http://xmlns.com/foaf/0.1/name> "Arias Gutiérrez , Ruth Irene " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AASANZA_NOVILLO___GRISELDA_MERCEDES_> <http://xmlns.com/foaf/0.1/name> "Asanza Novillo , Griselda Mercedes " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AAUQUILLA_BLEMA___LUIS_ARMIJO_> <http://xmlns.com/foaf/0.1/name> "Auquilla Blema , Luis Armijo " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABANOL_PEREZ__CAROLINA> <http://xmlns.com/foaf/0.1/name> "Bañol Pérez, Carolina" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABRAVO_MEDINA___CARLOS_ALFREDO> <http://xmlns.com/foaf/0.1/name> "Bravo Medina , Carlos Alfredo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACABRERO_MIRET__FERRAN> <http://xmlns.com/foaf/0.1/name> "Cabrero Miret, Ferran" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACERDA_MEJIA__VICTOR_RODRIGO> <http://xmlns.com/foaf/0.1/name> "Cerda Mejía, Víctor Rodrigo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACHAVEZ_ESPONDA___DUNIA_> <http://xmlns.com/foaf/0.1/name> "Chávez Esponda , Dunia " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AECHEVERRIA_GUEVARA___MONICA_PAULINA_> <http://xmlns.com/foaf/0.1/name> "Echeverría Guevara , Mónica Paulina " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AESPIN_ORTIZ__CLIMACO_GEOVANI> <http://xmlns.com/foaf/0.1/name> "Espín Ortiz, Clímaco Geovani" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGAMBOA_RIOS___MARIA_GERMANIA> <http://xmlns.com/foaf/0.1/name> "Gamboa Ríos , María Germania" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGARCIA_QUINTANA___YUDEL_> <http://xmlns.com/foaf/0.1/name> "García Quintana , Yudel " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGONZALEZ_RIVERA___JUAN_ELIAS> <http://xmlns.com/foaf/0.1/name> "González Rivera , Juan Elías" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGUTIERREZ__DEL_POZO___DIEGO> <http://xmlns.com/foaf/0.1/name> "Gutiérrez  Del Pozo,  Diego" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AMANJARREZ__FUENTES___NELLY_NARCISA_> <http://xmlns.com/foaf/0.1/name> "Manjarrez  Fuentes , Nelly Narcisa " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ANEILL_%A0__DAVID_ALAN_> <http://xmlns.com/foaf/0.1/name> "Neill  , David Alan " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APARDO_ENRIQUEZ___DALTON_> <http://xmlns.com/foaf/0.1/name> "Pardo Enríquez , Dalton " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_MARTINEZ__AMAURY> <http://xmlns.com/foaf/0.1/name> "Pérez Martínez, Amaury" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_QUINTANA___MANUEL_LAZARO_> <http://xmlns.com/foaf/0.1/name> "Pérez Quintana , Manuel Lázaro " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AQUEVEDO_TUMAILLI__VIVIANA_FERNANDA> <http://xmlns.com/foaf/0.1/name> "Quevedo Tumailli, Viviana Fernanda" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARADICE___MATTEO_> <http://xmlns.com/foaf/0.1/name> "Radice , Matteo " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARAMIREZ_SANCHEZ__ALINA_> <http://xmlns.com/foaf/0.1/name> "Ramirez Sanchez, Alina " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARIVERO_GUERRA__AIXA_OFELIA> <http://xmlns.com/foaf/0.1/name> "Rivero Guerra, Aixa Ofelia" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARUIZ_MARMOL__EDISON_EDUARDO> <http://xmlns.com/foaf/0.1/name> "Ruiz Marmol, Edison Eduardo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASAMANIEGO_GUZMAN__EDISON_OSWALDO> <http://xmlns.com/foaf/0.1/name> "Samaniego Guzmàn, Edison Oswaldo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASANCHO_AGUILERA___DAVID> <http://xmlns.com/foaf/0.1/name> "Sancho Aguilera , David" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATASAMBAY_SALAZAR__ANGELICA_MARIA> <http://xmlns.com/foaf/0.1/name> "Tasambay Salazar, Angélica María" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATORRES_NAVARRETE__BOLIER__SEGUNDO> <http://xmlns.com/foaf/0.1/name> "Torres Navarrete, Bolier  Segundo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AUVIDIA_CABADIANA___HERNAN_ALBERTO> <http://xmlns.com/foaf/0.1/name> "Uvidia Cabadiana , Hernán Alberto" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVARGAS_BURGOS__JULIO_CESAR_> <http://xmlns.com/foaf/0.1/name> "Vargas Burgos, Julio Cesar " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVIAMONTES_GARCES___MARIA_ISABEL_> <http://xmlns.com/foaf/0.1/name> "Viamontes Garcés , María Isabel " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADE_DECKER__MARIA__KATHARINA_ELISABETH> <http://xmlns.com/foaf/0.1/name> "De Decker, María  Katharina Elisabeth" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADIEGUEZ_SANTANA___KAREL> <http://xmlns.com/foaf/0.1/name> "Dieguez Santana , Karel" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AFREILE_ALMEIDA__JORGE_ANTONIO> <http://xmlns.com/foaf/0.1/name> "Freile Almeida, Jorge Antonio" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AHEREDIA_RENGIFO___MARCO_GERARDO> <http://xmlns.com/foaf/0.1/name> "Heredia Rengifo , Marco Gerardo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AACOSTA___ISMAEL_LEONARD> <http://xmlns.com/foaf/0.1/name> "Acosta , Ismael Leonard" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APUERTA_DE_ARMADA__YORDANIS_GERARDO> <http://xmlns.com/foaf/0.1/name> "Puerta de Armada, Yordanis Gerardo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASABLON_COSSIO___NEYFE%A0> <http://xmlns.com/foaf/0.1/name> "Sablón Cossío , Neyfe " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVALLE_RAMIREZ__SEGUNDO_BENEDICTO> <http://xmlns.com/foaf/0.1/name> "Valle Ramirez, Segundo Benedicto" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AABREU__NARANJO____RINIER_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABREU_NARANJO__RINIER> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AABRIL__SALTOS____RICARDO__VINICIO___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABRIL_SALTOS__RICARDO_VINICIO_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AALEMAN__PEREZ______REINALDO__DEMESIO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AALEMAN_PEREZ___REINALDO_DEMESIO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AARIAS__GUTIERREZ______RUTH__IRENE___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AARIAS_GUTIERREZ___RUTH_IRENE_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AASANZA__NOVILLO______GRISELDA__MERCEDES___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AASANZA_NOVILLO___GRISELDA_MERCEDES_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AAUQUILLA__BLEMA______LUIS__ARMIJO___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AAUQUILLA_BLEMA___LUIS_ARMIJO_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ABANOL__PEREZ____CAROLINA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABANOL_PEREZ__CAROLINA> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ABRAVO__MEDINA______CARLOS__ALFREDO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABRAVO_MEDINA___CARLOS_ALFREDO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ACABRERO__MIRET____FERRAN_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACABRERO_MIRET__FERRAN> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ACERDA__MEJIA____VICTOR__RODRIGO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACERDA_MEJIA__VICTOR_RODRIGO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ACHAVEZ__ESPONDA______DUNIA___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACHAVEZ_ESPONDA___DUNIA_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AECHEVERRIA__GUEVARA______MONICA__PAULINA___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AECHEVERRIA_GUEVARA___MONICA_PAULINA_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AESPIN__ORTIZ____CLIMACO__GEOVANI_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AESPIN_ORTIZ__CLIMACO_GEOVANI> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGAMBOA__RIOS______MARIA__GERMANIA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGAMBOA_RIOS___MARIA_GERMANIA> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGARCIA__QUINTANA______YUDEL___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGARCIA_QUINTANA___YUDEL_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGONZALEZ__RIVERA______JUAN__ELIAS_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGONZALEZ_RIVERA___JUAN_ELIAS> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGUTIERREZ____DEL__POZO______DIEGO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGUTIERREZ__DEL_POZO___DIEGO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AMANJARREZ____FUENTES______NELLY__NARCISA___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AMANJARREZ__FUENTES___NELLY_NARCISA_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ANEILL__%A0____DAVID__ALAN___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ANEILL_%A0__DAVID_ALAN_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APARDO__ENRIQUEZ______DALTON___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3APARDO_ENRIQUEZ___DALTON_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APEREZ__MARTINEZ____AMAURY_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_MARTINEZ__AMAURY> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APEREZ__QUINTANA______MANUEL__LAZARO___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_QUINTANA___MANUEL_LAZARO_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AQUEVEDO__TUMAILLI____VIVIANA__FERNANDA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AQUEVEDO_TUMAILLI__VIVIANA_FERNANDA> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARADICE______MATTEO___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARADICE___MATTEO_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARAMIREZ__SANCHEZ____ALINA___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARAMIREZ_SANCHEZ__ALINA_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARIVERO__GUERRA____AIXA__OFELIA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARIVERO_GUERRA__AIXA_OFELIA> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARUIZ__MARMOL____EDISON__EDUARDO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARUIZ_MARMOL__EDISON_EDUARDO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ASAMANIEGO__GUZMAN____EDISON__OSWALDO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASAMANIEGO_GUZMAN__EDISON_OSWALDO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ASANCHO__AGUILERA______DAVID_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASANCHO_AGUILERA___DAVID> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ATASAMBAY__SALAZAR____ANGELICA__MARIA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATASAMBAY_SALAZAR__ANGELICA_MARIA> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ATORRES__NAVARRETE____BOLIER____SEGUNDO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATORRES_NAVARRETE__BOLIER__SEGUNDO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AUVIDIA__CABADIANA______HERNAN__ALBERTO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AUVIDIA_CABADIANA___HERNAN_ALBERTO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AVARGAS__BURGOS____JULIO__CESAR___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVARGAS_BURGOS__JULIO_CESAR_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AVIAMONTES__GARCES______MARIA__ISABEL___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVIAMONTES_GARCES___MARIA_ISABEL_> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ADE__DECKER____MARIA____KATHARINA__ELISABETH_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADE_DECKER__MARIA__KATHARINA_ELISABETH> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ADIEGUEZ__SANTANA______KAREL_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADIEGUEZ_SANTANA___KAREL> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AFREILE__ALMEIDA____JORGE__ANTONIO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AFREILE_ALMEIDA__JORGE_ANTONIO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AHEREDIA__RENGIFO______MARCO__GERARDO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AHEREDIA_RENGIFO___MARCO_GERARDO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AACOSTA______ISMAEL__LEONARD_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AACOSTA___ISMAEL_LEONARD> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APUERTA__DE__ARMADA____YORDANIS__GERARDO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3APUERTA_DE_ARMADA__YORDANIS_GERARDO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ASABLON__COSSIO______NEYFE%A0_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASABLON_COSSIO___NEYFE%A0> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AVALLE__RAMIREZ____SEGUNDO__BENEDICTO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVALLE_RAMIREZ__SEGUNDO_BENEDICTO> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AABREU__NARANJO____RINIER_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AABRIL__SALTOS____RICARDO__VINICIO___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AALEMAN__PEREZ______REINALDO__DEMESIO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AARIAS__GUTIERREZ______RUTH__IRENE___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AASANZA__NOVILLO______GRISELDA__MERCEDES___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AAUQUILLA__BLEMA______LUIS__ARMIJO___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ABANOL__PEREZ____CAROLINA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ABRAVO__MEDINA______CARLOS__ALFREDO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ACABRERO__MIRET____FERRAN_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ACERDA__MEJIA____VICTOR__RODRIGO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ACHAVEZ__ESPONDA______DUNIA___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AECHEVERRIA__GUEVARA______MONICA__PAULINA___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AESPIN__ORTIZ____CLIMACO__GEOVANI_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGAMBOA__RIOS______MARIA__GERMANIA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGARCIA__QUINTANA______YUDEL___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGONZALEZ__RIVERA______JUAN__ELIAS_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGUTIERREZ____DEL__POZO______DIEGO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AMANJARREZ____FUENTES______NELLY__NARCISA___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ANEILL__%A0____DAVID__ALAN___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APARDO__ENRIQUEZ______DALTON___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APEREZ__MARTINEZ____AMAURY_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APEREZ__QUINTANA______MANUEL__LAZARO___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AQUEVEDO__TUMAILLI____VIVIANA__FERNANDA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARADICE______MATTEO___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARAMIREZ__SANCHEZ____ALINA___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARIVERO__GUERRA____AIXA__OFELIA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARUIZ__MARMOL____EDISON__EDUARDO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ASAMANIEGO__GUZMAN____EDISON__OSWALDO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ASANCHO__AGUILERA______DAVID_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ATASAMBAY__SALAZAR____ANGELICA__MARIA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ATORRES__NAVARRETE____BOLIER____SEGUNDO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AUVIDIA__CABADIANA______HERNAN__ALBERTO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AVARGAS__BURGOS____JULIO__CESAR___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AVIAMONTES__GARCES______MARIA__ISABEL___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ADE__DECKER____MARIA____KATHARINA__ELISABETH_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ADIEGUEZ__SANTANA______KAREL_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AFREILE__ALMEIDA____JORGE__ANTONIO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AHEREDIA__RENGIFO______MARCO__GERARDO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AACOSTA______ISMAEL__LEONARD_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APUERTA__DE__ARMADA____YORDANIS__GERARDO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ASABLON__COSSIO______NEYFE%A0_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AVALLE__RAMIREZ____SEGUNDO__BENEDICTO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABREU_NARANJO__RINIER> <http://xmlns.com/foaf/0.1/givenname> "Rinier" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABRIL_SALTOS__RICARDO_VINICIO_> <http://xmlns.com/foaf/0.1/givenname> "Ricardo Vinicio " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AALEMAN_PEREZ___REINALDO_DEMESIO> <http://xmlns.com/foaf/0.1/givenname> "Reinaldo Demesio" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AARIAS_GUTIERREZ___RUTH_IRENE_> <http://xmlns.com/foaf/0.1/givenname> "Ruth Irene " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AASANZA_NOVILLO___GRISELDA_MERCEDES_> <http://xmlns.com/foaf/0.1/givenname> "Griselda Mercedes " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AAUQUILLA_BLEMA___LUIS_ARMIJO_> <http://xmlns.com/foaf/0.1/givenname> "Luis Armijo " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABANOL_PEREZ__CAROLINA> <http://xmlns.com/foaf/0.1/givenname> "Carolina" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABRAVO_MEDINA___CARLOS_ALFREDO> <http://xmlns.com/foaf/0.1/givenname> "Carlos Alfredo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACABRERO_MIRET__FERRAN> <http://xmlns.com/foaf/0.1/givenname> "Ferran" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACERDA_MEJIA__VICTOR_RODRIGO> <http://xmlns.com/foaf/0.1/givenname> "Víctor Rodrigo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACHAVEZ_ESPONDA___DUNIA_> <http://xmlns.com/foaf/0.1/givenname> "Dunia " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AECHEVERRIA_GUEVARA___MONICA_PAULINA_> <http://xmlns.com/foaf/0.1/givenname> "Mónica Paulina " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AESPIN_ORTIZ__CLIMACO_GEOVANI> <http://xmlns.com/foaf/0.1/givenname> "Clímaco Geovani" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGAMBOA_RIOS___MARIA_GERMANIA> <http://xmlns.com/foaf/0.1/givenname> "María Germania" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGARCIA_QUINTANA___YUDEL_> <http://xmlns.com/foaf/0.1/givenname> "Yudel " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGONZALEZ_RIVERA___JUAN_ELIAS> <http://xmlns.com/foaf/0.1/givenname> "Juan Elías" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGUTIERREZ__DEL_POZO___DIEGO> <http://xmlns.com/foaf/0.1/givenname> " Diego" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AMANJARREZ__FUENTES___NELLY_NARCISA_> <http://xmlns.com/foaf/0.1/givenname> "Nelly Narcisa " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ANEILL_%A0__DAVID_ALAN_> <http://xmlns.com/foaf/0.1/givenname> "David Alan " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APARDO_ENRIQUEZ___DALTON_> <http://xmlns.com/foaf/0.1/givenname> "Dalton " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_MARTINEZ__AMAURY> <http://xmlns.com/foaf/0.1/givenname> "Amaury" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_QUINTANA___MANUEL_LAZARO_> <http://xmlns.com/foaf/0.1/givenname> "Manuel Lázaro " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AQUEVEDO_TUMAILLI__VIVIANA_FERNANDA> <http://xmlns.com/foaf/0.1/givenname> "Viviana Fernanda" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARADICE___MATTEO_> <http://xmlns.com/foaf/0.1/givenname> "Matteo " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARAMIREZ_SANCHEZ__ALINA_> <http://xmlns.com/foaf/0.1/givenname> "Alina " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARIVERO_GUERRA__AIXA_OFELIA> <http://xmlns.com/foaf/0.1/givenname> "Aixa Ofelia" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARUIZ_MARMOL__EDISON_EDUARDO> <http://xmlns.com/foaf/0.1/givenname> "Edison Eduardo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASAMANIEGO_GUZMAN__EDISON_OSWALDO> <http://xmlns.com/foaf/0.1/givenname> "Edison Oswaldo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASANCHO_AGUILERA___DAVID> <http://xmlns.com/foaf/0.1/givenname> "David" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATASAMBAY_SALAZAR__ANGELICA_MARIA> <http://xmlns.com/foaf/0.1/givenname> "Angélica María" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATORRES_NAVARRETE__BOLIER__SEGUNDO> <http://xmlns.com/foaf/0.1/givenname> "Bolier  Segundo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AUVIDIA_CABADIANA___HERNAN_ALBERTO> <http://xmlns.com/foaf/0.1/givenname> "Hernán Alberto" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVARGAS_BURGOS__JULIO_CESAR_> <http://xmlns.com/foaf/0.1/givenname> "Julio Cesar " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVIAMONTES_GARCES___MARIA_ISABEL_> <http://xmlns.com/foaf/0.1/givenname> "María Isabel " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADE_DECKER__MARIA__KATHARINA_ELISABETH> <http://xmlns.com/foaf/0.1/givenname> "María  Katharina Elisabeth" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADIEGUEZ_SANTANA___KAREL> <http://xmlns.com/foaf/0.1/givenname> "Karel" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AFREILE_ALMEIDA__JORGE_ANTONIO> <http://xmlns.com/foaf/0.1/givenname> "Jorge Antonio" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AHEREDIA_RENGIFO___MARCO_GERARDO> <http://xmlns.com/foaf/0.1/givenname> "Marco Gerardo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AACOSTA___ISMAEL_LEONARD> <http://xmlns.com/foaf/0.1/givenname> "Ismael Leonard" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APUERTA_DE_ARMADA__YORDANIS_GERARDO> <http://xmlns.com/foaf/0.1/givenname> "Yordanis Gerardo" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASABLON_COSSIO___NEYFE%A0> <http://xmlns.com/foaf/0.1/givenname> "Neyfe " .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVALLE_RAMIREZ__SEGUNDO_BENEDICTO> <http://xmlns.com/foaf/0.1/givenname> "Segundo Benedicto" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AABREU__NARANJO____RINIER_> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AABRIL__SALTOS____RICARDO__VINICIO___> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AALEMAN__PEREZ______REINALDO__DEMESIO_> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AARIAS__GUTIERREZ______RUTH__IRENE___> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AASANZA__NOVILLO______GRISELDA__MERCEDES___> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AAUQUILLA__BLEMA______LUIS__ARMIJO___> <http://purl.org/dc/terms/subject> "Turismo" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ABANOL__PEREZ____CAROLINA_> <http://purl.org/dc/terms/subject> "Turismo" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ABRAVO__MEDINA______CARLOS__ALFREDO_> <http://purl.org/dc/terms/subject> "Agopecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ACABRERO__MIRET____FERRAN_> <http://purl.org/dc/terms/subject> "Turismo" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ACERDA__MEJIA____VICTOR__RODRIGO_> <http://purl.org/dc/terms/subject> "Agroindustria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ACHAVEZ__ESPONDA______DUNIA___> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AECHEVERRIA__GUEVARA______MONICA__PAULINA___> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AESPIN__ORTIZ____CLIMACO__GEOVANI_> <http://purl.org/dc/terms/subject> "Turismo" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGAMBOA__RIOS______MARIA__GERMANIA_> <http://purl.org/dc/terms/subject> "Turismo" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGARCIA__QUINTANA______YUDEL___> <http://purl.org/dc/terms/subject> "Forestal" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGONZALEZ__RIVERA______JUAN__ELIAS_> <http://purl.org/dc/terms/subject> "Agroindustria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AGUTIERREZ____DEL__POZO______DIEGO_> <http://purl.org/dc/terms/subject> "Turismo" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AMANJARREZ____FUENTES______NELLY__NARCISA___> <http://purl.org/dc/terms/subject> "Turismo" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ANEILL__%A0____DAVID__ALAN___> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APARDO__ENRIQUEZ______DALTON___> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APEREZ__MARTINEZ____AMAURY_> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APEREZ__QUINTANA______MANUEL__LAZARO___> <http://purl.org/dc/terms/subject> "Agroindustria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AQUEVEDO__TUMAILLI____VIVIANA__FERNANDA_> <http://purl.org/dc/terms/subject> "Forestal" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARADICE______MATTEO___> <http://purl.org/dc/terms/subject> "Agroindustria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARAMIREZ__SANCHEZ____ALINA___> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARIVERO__GUERRA____AIXA__OFELIA_> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ARUIZ__MARMOL____EDISON__EDUARDO_> <http://purl.org/dc/terms/subject> "Turismo" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ASAMANIEGO__GUZMAN____EDISON__OSWALDO_> <http://purl.org/dc/terms/subject> "Forestal" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ASANCHO__AGUILERA______DAVID_> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ATASAMBAY__SALAZAR____ANGELICA__MARIA_> <http://purl.org/dc/terms/subject> "Agroindustria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ATORRES__NAVARRETE____BOLIER____SEGUNDO_> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AUVIDIA__CABADIANA______HERNAN__ALBERTO_> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AVARGAS__BURGOS____JULIO__CESAR___> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AVIAMONTES__GARCES______MARIA__ISABEL___> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ADE__DECKER____MARIA____KATHARINA__ELISABETH_> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ADIEGUEZ__SANTANA______KAREL_> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AFREILE__ALMEIDA____JORGE__ANTONIO_> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AHEREDIA__RENGIFO______MARCO__GERARDO_> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AACOSTA______ISMAEL__LEONARD_> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3APUERTA__DE__ARMADA____YORDANIS__GERARDO_> <http://purl.org/dc/terms/subject> "Ambiental" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3ASABLON__COSSIO______NEYFE%A0_> <http://purl.org/dc/terms/subject> "Agroindustria" .
+
+<http://REDI/TEMP/FILE/PUCESI/DOC__PUCESI%3AVALLE__RAMIREZ____SEGUNDO__BENEDICTO_> <http://purl.org/dc/terms/subject> "Agropecuaria" .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABREU_NARANJO__RINIER> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AABRIL_SALTOS__RICARDO_VINICIO_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AALEMAN_PEREZ___REINALDO_DEMESIO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AARIAS_GUTIERREZ___RUTH_IRENE_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AASANZA_NOVILLO___GRISELDA_MERCEDES_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AAUQUILLA_BLEMA___LUIS_ARMIJO_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABANOL_PEREZ__CAROLINA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ABRAVO_MEDINA___CARLOS_ALFREDO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACABRERO_MIRET__FERRAN> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACERDA_MEJIA__VICTOR_RODRIGO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ACHAVEZ_ESPONDA___DUNIA_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AECHEVERRIA_GUEVARA___MONICA_PAULINA_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AESPIN_ORTIZ__CLIMACO_GEOVANI> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGAMBOA_RIOS___MARIA_GERMANIA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGARCIA_QUINTANA___YUDEL_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGONZALEZ_RIVERA___JUAN_ELIAS> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AGUTIERREZ__DEL_POZO___DIEGO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AMANJARREZ__FUENTES___NELLY_NARCISA_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ANEILL_%A0__DAVID_ALAN_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APARDO_ENRIQUEZ___DALTON_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_MARTINEZ__AMAURY> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APEREZ_QUINTANA___MANUEL_LAZARO_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AQUEVEDO_TUMAILLI__VIVIANA_FERNANDA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARADICE___MATTEO_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARAMIREZ_SANCHEZ__ALINA_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARIVERO_GUERRA__AIXA_OFELIA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ARUIZ_MARMOL__EDISON_EDUARDO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASAMANIEGO_GUZMAN__EDISON_OSWALDO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASANCHO_AGUILERA___DAVID> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATASAMBAY_SALAZAR__ANGELICA_MARIA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ATORRES_NAVARRETE__BOLIER__SEGUNDO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AUVIDIA_CABADIANA___HERNAN_ALBERTO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVARGAS_BURGOS__JULIO_CESAR_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVIAMONTES_GARCES___MARIA_ISABEL_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADE_DECKER__MARIA__KATHARINA_ELISABETH> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ADIEGUEZ_SANTANA___KAREL> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AFREILE_ALMEIDA__JORGE_ANTONIO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AHEREDIA_RENGIFO___MARCO_GERARDO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AACOSTA___ISMAEL_LEONARD> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3APUERTA_DE_ARMADA__YORDANIS_GERARDO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3ASABLON_COSSIO___NEYFE%A0> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PUCESI/PUCESI%3AVALLE_RAMIREZ__SEGUNDO_BENEDICTO> a <http://xmlns.com/foaf/0.1/Person> .

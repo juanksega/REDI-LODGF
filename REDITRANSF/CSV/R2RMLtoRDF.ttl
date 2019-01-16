@@ -1,0 +1,448 @@
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__TAMAYO__HERRERA____CESAR__AUGUSTO___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/TAMAYO_HERRERA__CESAR_AUGUSTO_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__GUTIERREZ____LEONARDO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/GUTIERREZ__LEONARDO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__CUEVA__RUEDA____RODRIGO__ALEJANDRO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/CUEVA_RUEDA__RODRIGO_ALEJANDRO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__AYALA____MARGARITA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/AYALA__MARGARITA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__PALACIOS____OTHONIEL_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/PALACIOS__OTHONIEL> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__PALACIOS____KEVIN_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/PALACIOS__KEVIN> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__VERA____TERESA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/VERA__TERESA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__LEMOS____DENISE_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/LEMOS__DENISE> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__MAZON____RUBEN___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/MAZON__RUBEN_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__DAVILA____MONICA___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/DAVILA__MONICA_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__QUINDE__ORDONEZ____DANIEL__FERNANDO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/QUINDE_ORDONEZ__DANIEL_FERNANDO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__BAYAS__MORA____PRISCILA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/BAYAS_MORA__PRISCILA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__VALLEJO____MARTHA___> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/VALLEJO__MARTHA_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__POVEDA__GUEVARA____ANTONIO__FRANCISCO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/POVEDA_GUEVARA__ANTONIO_FRANCISCO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__ERICE____TERESA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/ERICE__TERESA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__MORALES____CARLOS__ANTONIO_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/MORALES__CARLOS_ANTONIO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__CORDERO____SILVIA_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/CORDERO__SILVIA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__SEGOVIA____ANDRES_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/SEGOVIA__ANDRES> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__CAMACHO____NELCAR_> <http://purl.org/dc/terms/creator> <http://REDI/TEMP/FILE/PACIFICO/CAMACHO__NELCAR> .
+
+<http://REDI/TEMP/FILE/PACIFICO/TAMAYO_HERRERA__CESAR_AUGUSTO_> <http://www.w3.org/2006/vcard/ns#hasEmail> "cesar.tamayo@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/GUTIERREZ__LEONARDO> <http://www.w3.org/2006/vcard/ns#hasEmail> "leonardo.gutierrez@upacificio.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CUEVA_RUEDA__RODRIGO_ALEJANDRO> <http://www.w3.org/2006/vcard/ns#hasEmail> "rodrigo.cueva@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/AYALA__MARGARITA> <http://www.w3.org/2006/vcard/ns#hasEmail> "margarita.ayala@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__OTHONIEL> <http://www.w3.org/2006/vcard/ns#hasEmail> "othoniel.palacios@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__KEVIN> <http://www.w3.org/2006/vcard/ns#hasEmail> "kevin.palacios@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/VERA__TERESA> <http://www.w3.org/2006/vcard/ns#hasEmail> "teresa.vera@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/LEMOS__DENISE> <http://www.w3.org/2006/vcard/ns#hasEmail> "denise.lemos@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MAZON__RUBEN_> <http://www.w3.org/2006/vcard/ns#hasEmail> "ruben.mazon@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DAVILA__MONICA_> <http://www.w3.org/2006/vcard/ns#hasEmail> "monica.davila@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/QUINDE_ORDONEZ__DANIEL_FERNANDO> <http://www.w3.org/2006/vcard/ns#hasEmail> "daniel.quinde@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/BAYAS_MORA__PRISCILA> <http://www.w3.org/2006/vcard/ns#hasEmail> "priscila.bayas@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/VALLEJO__MARTHA_> <http://www.w3.org/2006/vcard/ns#hasEmail> "martha.vallejo@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/POVEDA_GUEVARA__ANTONIO_FRANCISCO> <http://www.w3.org/2006/vcard/ns#hasEmail> "antonio.poveda@upacifico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/ERICE__TERESA> <http://www.w3.org/2006/vcard/ns#hasEmail> "teresa.erice@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MORALES__CARLOS_ANTONIO> <http://www.w3.org/2006/vcard/ns#hasEmail> "carlos.morales@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CORDERO__SILVIA> <http://www.w3.org/2006/vcard/ns#hasEmail> "silvia.cordero@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/SEGOVIA__ANDRES> <http://www.w3.org/2006/vcard/ns#hasEmail> "andres.segovia@upacífico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CAMACHO__NELCAR> <http://www.w3.org/2006/vcard/ns#hasEmail> "nelcar.camacho@upacifico.edu.ec" .
+
+<http://REDI/TEMP/FILE/PACIFICO/TAMAYO_HERRERA__CESAR_AUGUSTO_> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0003-1796-6912" .
+
+<http://REDI/TEMP/FILE/PACIFICO/GUTIERREZ__LEONARDO> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0001-7573-6635" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CUEVA_RUEDA__RODRIGO_ALEJANDRO> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0003-4867-6168" .
+
+<http://REDI/TEMP/FILE/PACIFICO/AYALA__MARGARITA> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0001-9491-541X" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__OTHONIEL> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0002-2098-2086" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__KEVIN> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0002-1996-4323" .
+
+<http://REDI/TEMP/FILE/PACIFICO/VERA__TERESA> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0002-9891-6548" .
+
+<http://REDI/TEMP/FILE/PACIFICO/LEMOS__DENISE> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0003-4017-2539" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MAZON__RUBEN_> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0001-5055-9468" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DAVILA__MONICA_> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0003-0092-7562" .
+
+<http://REDI/TEMP/FILE/PACIFICO/QUINDE_ORDONEZ__DANIEL_FERNANDO> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0001-9920-0843" .
+
+<http://REDI/TEMP/FILE/PACIFICO/POVEDA_GUEVARA__ANTONIO_FRANCISCO> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0002-3908-3099" .
+
+<http://REDI/TEMP/FILE/PACIFICO/ERICE__TERESA> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0003-4114-7917" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MORALES__CARLOS_ANTONIO> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0001-5280-9942" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CAMACHO__NELCAR> <http://purl.org/spar/scoro/hasORCID> "https://orcid.org/0000-0003-1892-8117" .
+
+<http://REDI/TEMP/FILE/PACIFICO/TAMAYO_HERRERA__CESAR_AUGUSTO_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/GUTIERREZ__LEONARDO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/CUEVA_RUEDA__RODRIGO_ALEJANDRO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/AYALA__MARGARITA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__OTHONIEL> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__KEVIN> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/VERA__TERESA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/LEMOS__DENISE> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/MAZON__RUBEN_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DAVILA__MONICA_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/QUINDE_ORDONEZ__DANIEL_FERNANDO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/BAYAS_MORA__PRISCILA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/VALLEJO__MARTHA_> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/POVEDA_GUEVARA__ANTONIO_FRANCISCO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/ERICE__TERESA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/MORALES__CARLOS_ANTONIO> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/CORDERO__SILVIA> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/SEGOVIA__ANDRES> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/CAMACHO__NELCAR> a <http://xmlns.com/foaf/0.1/Person> .
+
+<http://REDI/TEMP/FILE/PACIFICO/TAMAYO_HERRERA__CESAR_AUGUSTO_> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__TAMAYO__HERRERA____CESAR__AUGUSTO___> .
+
+<http://REDI/TEMP/FILE/PACIFICO/GUTIERREZ__LEONARDO> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__GUTIERREZ____LEONARDO_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/CUEVA_RUEDA__RODRIGO_ALEJANDRO> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__CUEVA__RUEDA____RODRIGO__ALEJANDRO_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/AYALA__MARGARITA> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__AYALA____MARGARITA_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__OTHONIEL> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__PALACIOS____OTHONIEL_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__KEVIN> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__PALACIOS____KEVIN_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/VERA__TERESA> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__VERA____TERESA_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/LEMOS__DENISE> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__LEMOS____DENISE_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/MAZON__RUBEN_> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__MAZON____RUBEN___> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DAVILA__MONICA_> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__DAVILA____MONICA___> .
+
+<http://REDI/TEMP/FILE/PACIFICO/QUINDE_ORDONEZ__DANIEL_FERNANDO> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__QUINDE__ORDONEZ____DANIEL__FERNANDO_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/BAYAS_MORA__PRISCILA> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__BAYAS__MORA____PRISCILA_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/VALLEJO__MARTHA_> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__VALLEJO____MARTHA___> .
+
+<http://REDI/TEMP/FILE/PACIFICO/POVEDA_GUEVARA__ANTONIO_FRANCISCO> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__POVEDA__GUEVARA____ANTONIO__FRANCISCO_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/ERICE__TERESA> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__ERICE____TERESA_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/MORALES__CARLOS_ANTONIO> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__MORALES____CARLOS__ANTONIO_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/CORDERO__SILVIA> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__CORDERO____SILVIA_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/SEGOVIA__ANDRES> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__SEGOVIA____ANDRES_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/CAMACHO__NELCAR> <http://rdaregistry.info/Elements/a/P50195> <http://REDI/TEMP/FILE/PACIFICO/DOC__CAMACHO____NELCAR_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__TAMAYO__HERRERA____CESAR__AUGUSTO___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__GUTIERREZ____LEONARDO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__CUEVA__RUEDA____RODRIGO__ALEJANDRO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__AYALA____MARGARITA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__PALACIOS____OTHONIEL_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__PALACIOS____KEVIN_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__VERA____TERESA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__LEMOS____DENISE_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__MAZON____RUBEN___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__DAVILA____MONICA___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__QUINDE__ORDONEZ____DANIEL__FERNANDO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__BAYAS__MORA____PRISCILA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__VALLEJO____MARTHA___> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__POVEDA__GUEVARA____ANTONIO__FRANCISCO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__ERICE____TERESA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__MORALES____CARLOS__ANTONIO_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__CORDERO____SILVIA_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__SEGOVIA____ANDRES_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__CAMACHO____NELCAR_> a <http://purl.org/ontology/bibo/Document> .
+
+<http://REDI/TEMP/FILE/PACIFICO/TAMAYO_HERRERA__CESAR_AUGUSTO_> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ATAMAYO_HERRERA__CESAR_AUGUSTO_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/GUTIERREZ__LEONARDO> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AGUTIERREZ__LEONARDO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/CUEVA_RUEDA__RODRIGO_ALEJANDRO> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ACUEVA_RUEDA__RODRIGO_ALEJANDRO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/AYALA__MARGARITA> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AAYALA__MARGARITA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__OTHONIEL> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3APALACIOS__OTHONIEL> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__KEVIN> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3APALACIOS__KEVIN> .
+
+<http://REDI/TEMP/FILE/PACIFICO/VERA__TERESA> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AVERA__TERESA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/LEMOS__DENISE> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ALEMOS__DENISE> .
+
+<http://REDI/TEMP/FILE/PACIFICO/MAZON__RUBEN_> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AMAZON__RUBEN_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DAVILA__MONICA_> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ADAVILA__MONICA_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/QUINDE_ORDONEZ__DANIEL_FERNANDO> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AQUINDE_ORDONEZ__DANIEL_FERNANDO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/BAYAS_MORA__PRISCILA> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ABAYAS_MORA__PRISCILA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/VALLEJO__MARTHA_> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AVALLEJO__MARTHA_> .
+
+<http://REDI/TEMP/FILE/PACIFICO/POVEDA_GUEVARA__ANTONIO_FRANCISCO> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3APOVEDA_GUEVARA__ANTONIO_FRANCISCO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/ERICE__TERESA> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AERICE__TERESA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/MORALES__CARLOS_ANTONIO> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AMORALES__CARLOS_ANTONIO> .
+
+<http://REDI/TEMP/FILE/PACIFICO/CORDERO__SILVIA> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ACORDERO__SILVIA> .
+
+<http://REDI/TEMP/FILE/PACIFICO/SEGOVIA__ANDRES> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ASEGOVIA__ANDRES> .
+
+<http://REDI/TEMP/FILE/PACIFICO/CAMACHO__NELCAR> <http://purl.org/dc/terms/isVersionOf> <http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ACAMACHO__NELCAR> .
+
+<http://REDI/TEMP/FILE/PACIFICO/TAMAYO_HERRERA__CESAR_AUGUSTO_> <http://xmlns.com/foaf/0.1/name> "TAMAYO HERRERA, CÉSAR AUGUSTO " .
+
+<http://REDI/TEMP/FILE/PACIFICO/GUTIERREZ__LEONARDO> <http://xmlns.com/foaf/0.1/name> "GUTIÉRREZ, LEONARDO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CUEVA_RUEDA__RODRIGO_ALEJANDRO> <http://xmlns.com/foaf/0.1/name> "CUEVA RUEDA, RODRIGO ALEJANDRO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/AYALA__MARGARITA> <http://xmlns.com/foaf/0.1/name> "AYALA, MARGARITA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__OTHONIEL> <http://xmlns.com/foaf/0.1/name> "PALACIOS, OTHONIEL" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__KEVIN> <http://xmlns.com/foaf/0.1/name> "PALACIOS, KEVIN" .
+
+<http://REDI/TEMP/FILE/PACIFICO/VERA__TERESA> <http://xmlns.com/foaf/0.1/name> "VERA, TERESA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/LEMOS__DENISE> <http://xmlns.com/foaf/0.1/name> "LEMOS, DENISE" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MAZON__RUBEN_> <http://xmlns.com/foaf/0.1/name> "MAZON, RUBEN " .
+
+<http://REDI/TEMP/FILE/PACIFICO/DAVILA__MONICA_> <http://xmlns.com/foaf/0.1/name> "DÁVILA, MÓNICA " .
+
+<http://REDI/TEMP/FILE/PACIFICO/QUINDE_ORDONEZ__DANIEL_FERNANDO> <http://xmlns.com/foaf/0.1/name> "QUINDE ORDOñEZ, DANIEL FERNANDO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/BAYAS_MORA__PRISCILA> <http://xmlns.com/foaf/0.1/name> "BAYAS MORA, PRISCILA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/VALLEJO__MARTHA_> <http://xmlns.com/foaf/0.1/name> "VALLEJO, MARTHA " .
+
+<http://REDI/TEMP/FILE/PACIFICO/POVEDA_GUEVARA__ANTONIO_FRANCISCO> <http://xmlns.com/foaf/0.1/name> "POVEDA GUEVARA, ANTONIO FRANCISCO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/ERICE__TERESA> <http://xmlns.com/foaf/0.1/name> "ERICE, TERESA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MORALES__CARLOS_ANTONIO> <http://xmlns.com/foaf/0.1/name> "MORALES, CARLOS ANTONIO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CORDERO__SILVIA> <http://xmlns.com/foaf/0.1/name> "CORDERO, SILVIA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/SEGOVIA__ANDRES> <http://xmlns.com/foaf/0.1/name> "SEGOVIA, ANDRES" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CAMACHO__NELCAR> <http://xmlns.com/foaf/0.1/name> "CAMACHO, NELCAR" .
+
+<http://REDI/TEMP/FILE/PACIFICO/TAMAYO_HERRERA__CESAR_AUGUSTO_> <http://xmlns.com/foaf/0.1/givenName> "CÉSAR AUGUSTO " .
+
+<http://REDI/TEMP/FILE/PACIFICO/GUTIERREZ__LEONARDO> <http://xmlns.com/foaf/0.1/givenName> "LEONARDO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CUEVA_RUEDA__RODRIGO_ALEJANDRO> <http://xmlns.com/foaf/0.1/givenName> "RODRIGO ALEJANDRO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/AYALA__MARGARITA> <http://xmlns.com/foaf/0.1/givenName> "MARGARITA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__OTHONIEL> <http://xmlns.com/foaf/0.1/givenName> "OTHONIEL" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__KEVIN> <http://xmlns.com/foaf/0.1/givenName> "KEVIN" .
+
+<http://REDI/TEMP/FILE/PACIFICO/VERA__TERESA> <http://xmlns.com/foaf/0.1/givenName> "TERESA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/LEMOS__DENISE> <http://xmlns.com/foaf/0.1/givenName> "DENISE" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MAZON__RUBEN_> <http://xmlns.com/foaf/0.1/givenName> "RUBEN " .
+
+<http://REDI/TEMP/FILE/PACIFICO/DAVILA__MONICA_> <http://xmlns.com/foaf/0.1/givenName> "MÓNICA " .
+
+<http://REDI/TEMP/FILE/PACIFICO/QUINDE_ORDONEZ__DANIEL_FERNANDO> <http://xmlns.com/foaf/0.1/givenName> "DANIEL FERNANDO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/BAYAS_MORA__PRISCILA> <http://xmlns.com/foaf/0.1/givenName> "PRISCILA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/VALLEJO__MARTHA_> <http://xmlns.com/foaf/0.1/givenName> "MARTHA " .
+
+<http://REDI/TEMP/FILE/PACIFICO/POVEDA_GUEVARA__ANTONIO_FRANCISCO> <http://xmlns.com/foaf/0.1/givenName> "ANTONIO FRANCISCO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/ERICE__TERESA> <http://xmlns.com/foaf/0.1/givenName> "TERESA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MORALES__CARLOS_ANTONIO> <http://xmlns.com/foaf/0.1/givenName> "CARLOS ANTONIO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CORDERO__SILVIA> <http://xmlns.com/foaf/0.1/givenName> "SILVIA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/SEGOVIA__ANDRES> <http://xmlns.com/foaf/0.1/givenName> "ANDRES" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CAMACHO__NELCAR> <http://xmlns.com/foaf/0.1/givenName> "NELCAR" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ATAMAYO_HERRERA__CESAR_AUGUSTO_> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AGUTIERREZ__LEONARDO> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ACUEVA_RUEDA__RODRIGO_ALEJANDRO> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AAYALA__MARGARITA> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3APALACIOS__OTHONIEL> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3APALACIOS__KEVIN> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AVERA__TERESA> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ALEMOS__DENISE> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AMAZON__RUBEN_> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ADAVILA__MONICA_> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AQUINDE_ORDONEZ__DANIEL_FERNANDO> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ABAYAS_MORA__PRISCILA> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AVALLEJO__MARTHA_> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3APOVEDA_GUEVARA__ANTONIO_FRANCISCO> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AERICE__TERESA> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3AMORALES__CARLOS_ANTONIO> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ACORDERO__SILVIA> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ASEGOVIA__ANDRES> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/PACIFICO%3ACAMACHO__NELCAR> a <http://xmlns.com/foaf/0.1/Agent> .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__TAMAYO__HERRERA____CESAR__AUGUSTO___> <http://purl.org/dc/terms/subject> "Desarrollo económico e innovación: Políticas de innovación ;Innovación; Sistemas Nacionales de Innovación ;Estado de Bienestar: Regímenes especiales de seguridad social ;Seguridad y Defensa: Economía de Defensa" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__GUTIERREZ____LEONARDO_> <http://purl.org/dc/terms/subject> "Desalinización de agua de mar y agua salobre ;Membranas para tratamiento de agua potable e industriales;Microscopia ;Ciencia interfacial, nanoquímica, y físico-química" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__CUEVA__RUEDA____RODRIGO__ALEJANDRO_> <http://purl.org/dc/terms/subject> "Knowledge and technology transfer;   Digital Enterprise Transformation;  Business Innovation and Technology Entrepreneurship;  Service and Process Management; Ontology and Database modeling; Human Computer Interface ; Disruptive and New Data Visualization technologies." .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__AYALA____MARGARITA_> <http://purl.org/dc/terms/subject> "Gestión para la calidad de la Educación Superior ; Recursos Humanos y Liderazgo ; Emprendimiento" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__PALACIOS____OTHONIEL_> <http://purl.org/dc/terms/subject> "Modelamiento numérico aplicado al océano y la atmósfera mediante el uso de High Performance Resource Computing ; Sensores remotos y datos satelitales aplicados a geociencias.; Estudios oceánicos y costeros.; Variabilidad climática, cambio climático, riesgos de origen oceánico.; Desarrollo sostenible, conservación y manejo de recursos naturales.; Contaminación marina." .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__PALACIOS____KEVIN_> <http://purl.org/dc/terms/subject> "Sistemas Integrados de Gestión HSSEQ (Salud, Seguridad, Protección, Calidad y Ambiente); Desarrollo de políticas públicas y privadas en HSSEQ; Administración de Riesgos Empresariales HSSEQ; Modificación de comportamiento para creación de cultura HSSEQ; Factores determinantes en el éxito de programas HSSEQ " .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__VERA____TERESA_> <http://purl.org/dc/terms/subject> "Tsunamis, Gestión de Riesgos y Aplicaciones SIG en ambos campos.;Uso de información geoespacial y herramientas SIG para el análisis de dinámica y cambios en la zona costera, relacionada con fenomenos de origen natural y antrópico.;Reducción de Riesgos de Desastres en la zona costera." .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__LEMOS____DENISE_> <http://purl.org/dc/terms/subject> "Geología Marina (Oceanografía, Paleoceanografía, Paleoclimatología (Variación Climática), Geofísica, Estratigrafía, Sedimentología y Procesos Costeros.;  La inter- multi- transdisciplinariedad de las Ciencias Marinas, Marítimas y Ambientales.; Medición y difusión de la Agenda 2030 y los Objetivos de Desarrollo Sostenible. ; Comunicación y lenguaje." .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__MAZON____RUBEN___> <http://purl.org/dc/terms/subject> "La sedimentación de los canales de acceso a los puertos ecuatorianos y su influencia en la navegación; La erosión de las playas en el ecuador y su influencia en el turismo" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__DAVILA____MONICA___> <http://purl.org/dc/terms/subject> "Método de análisis de casos aplicado a la educación superior.;Internacionalización comprensiva de la educación superior en el Ecuador.; Educación intercultural en el contexto de la globalización mercantil.; Gestión del \"desarrollo\" de las ciudades" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__QUINDE__ORDONEZ____DANIEL__FERNANDO_> <http://purl.org/dc/terms/subject> " Ciencias de Computación ; Innovación Tecnológica ; Dirección de Proyectos.  ; Computers and Education ; MIS Quarterly: Management Information Systems.; Management of Technology and Innovation.; Business, Management and Accounting, ; Strategy and Management." .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__BAYAS__MORA____PRISCILA_> <http://purl.org/dc/terms/subject> "Comunicación Humana; Opinión Pública; Lenguaje e Interacción Social; Mass Communication Quarterly; Written Communication; Communication Methods and Measures" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__VALLEJO____MARTHA___> <http://purl.org/dc/terms/subject> "Instrumentos para el Liderazgo y desarrollo de competencias ;Relación del Liderazgo y el Éxito empresarial en las pequeñas y medianas empresas;Clima Laboral y Trabajo en Equipos en la empresas ecuatorianas;Trabajo Infantil en Ecuador, como erradicarlo en sectores de la construcción y agrícola. " .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__POVEDA__GUEVARA____ANTONIO__FRANCISCO_> <http://purl.org/dc/terms/subject> "Emprendimiento, Comercio electrónico y Negocios Familiares;Impacto de política pública en intención emprendedora ;Factores determinantes de la adopción de comercio electrónico en PYMES;Factores determinantes de la sucesión generacional exitosa en negocios familiares" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__ERICE____TERESA_> <http://purl.org/dc/terms/subject> "Historiografía del patrimonio cultural ;Patrimonio cultural y la construcción de identidades ;Reutilización y apropiación del patrimonio arqueológico" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__MORALES____CARLOS__ANTONIO_> <http://purl.org/dc/terms/subject> "Derechos de personas en un Estado Constitucional de Derechos y de justicia; Principales Delitos Económicos, Bancarios y Financieros en Ecuador ;Reformas a la Legislación nacional de tránsito y transporte (Accidentología Vial) ;Inviolabilidad de los Derechos Laborales" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__CORDERO____SILVIA_> <http://purl.org/dc/terms/subject> "Desarrollo del Pensamiento ;Psicopedagogía Universitaria  ;Psicología Clínica, Educativa y Organizacional ; Problemas psicosociales en la universidad " .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__SEGOVIA____ANDRES_> <http://purl.org/dc/terms/subject> "Diseño de ambientes de aprendizaje que incentiven a la innovación y resiliencia ;Metodologías de aprendizaje para el incentivo de la creatividad ;Metodologías de buenas prácticas para el desarrollo de la creatividad que impacten en emprendimientos innovadores;Implementación de centros de emprendimiento innovador disruptivo con impacto en la sociedad y empresas;" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DOC__CAMACHO____NELCAR_> <http://purl.org/dc/terms/subject> "Tecnología Educativa; Educación mediada por las TIC ; Gerencia de las Tic y las TAC ; Elearning ; Metaversos  ; Gestión del Conocimiento" .
+
+<http://REDI/TEMP/FILE/PACIFICO/TAMAYO_HERRERA__CESAR_AUGUSTO_> <http://xmlns.com/foaf/0.1/familyName> "TAMAYO HERRERA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/GUTIERREZ__LEONARDO> <http://xmlns.com/foaf/0.1/familyName> "GUTIÉRREZ" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CUEVA_RUEDA__RODRIGO_ALEJANDRO> <http://xmlns.com/foaf/0.1/familyName> "CUEVA RUEDA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/AYALA__MARGARITA> <http://xmlns.com/foaf/0.1/familyName> "AYALA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__OTHONIEL> <http://xmlns.com/foaf/0.1/familyName> "PALACIOS" .
+
+<http://REDI/TEMP/FILE/PACIFICO/PALACIOS__KEVIN> <http://xmlns.com/foaf/0.1/familyName> "PALACIOS" .
+
+<http://REDI/TEMP/FILE/PACIFICO/VERA__TERESA> <http://xmlns.com/foaf/0.1/familyName> "VERA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/LEMOS__DENISE> <http://xmlns.com/foaf/0.1/familyName> "LEMOS" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MAZON__RUBEN_> <http://xmlns.com/foaf/0.1/familyName> "MAZON" .
+
+<http://REDI/TEMP/FILE/PACIFICO/DAVILA__MONICA_> <http://xmlns.com/foaf/0.1/familyName> "DÁVILA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/QUINDE_ORDONEZ__DANIEL_FERNANDO> <http://xmlns.com/foaf/0.1/familyName> "QUINDE ORDOñEZ" .
+
+<http://REDI/TEMP/FILE/PACIFICO/BAYAS_MORA__PRISCILA> <http://xmlns.com/foaf/0.1/familyName> "BAYAS MORA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/VALLEJO__MARTHA_> <http://xmlns.com/foaf/0.1/familyName> "VALLEJO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/POVEDA_GUEVARA__ANTONIO_FRANCISCO> <http://xmlns.com/foaf/0.1/familyName> "POVEDA GUEVARA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/ERICE__TERESA> <http://xmlns.com/foaf/0.1/familyName> "ERICE" .
+
+<http://REDI/TEMP/FILE/PACIFICO/MORALES__CARLOS_ANTONIO> <http://xmlns.com/foaf/0.1/familyName> "MORALES" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CORDERO__SILVIA> <http://xmlns.com/foaf/0.1/familyName> "CORDERO" .
+
+<http://REDI/TEMP/FILE/PACIFICO/SEGOVIA__ANDRES> <http://xmlns.com/foaf/0.1/familyName> "SEGOVIA" .
+
+<http://REDI/TEMP/FILE/PACIFICO/CAMACHO__NELCAR> <http://xmlns.com/foaf/0.1/familyName> "CAMACHO" .

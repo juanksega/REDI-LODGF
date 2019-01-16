@@ -1,0 +1,92 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rr:      <http://www.w3.org/ns/r2rml#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<#TriplesMapA004>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A004_DATA, ID_RECORD AS C002_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTCSV' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'Areas'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A004_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/dc/terms/subject>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/TEMP/FILE/PUCESI/{C002_ID}"
+              ] .
+
+<#TriplesMapA002>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A002_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTCSV' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'Nombre'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A002_DATA"
+                        ] ;
+                rr:predicate <http://xmlns.com/foaf/0.1/givenname>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/TEMP/FILE/PUCESI/{C001_ID}"
+              ] .
+
+<#TriplesMapR001>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT ID_RECORD AS C002_ID, DATA AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTCSV' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'creator'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:template "http://REDI/TEMP/FILE/PUCESI/{C001_ID}"
+                        ] ;
+                rr:predicate <http://purl.org/dc/terms/creator>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/TEMP/FILE/PUCESI/{C002_ID}"
+              ] .
+
+<#TriplesMapC001>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTCSV' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'creator'"
+              ] ;
+      rr:subjectMap
+              [ rr:class <http://xmlns.com/foaf/0.1/Person> ;
+                rr:template "http://REDI/TEMP/FILE/PUCESI/{C001_ID}"
+              ] .
+
+<#TriplesMapA003>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A003_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTCSV' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'Apellido'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A003_DATA"
+                        ] ;
+                rr:predicate <http://xmlns.com/foaf/0.1/family_name>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/TEMP/FILE/PUCESI/{C001_ID}"
+              ] .
+
+<#TriplesMapA001>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A001_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTCSV' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'Nombres'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A001_DATA"
+                        ] ;
+                rr:predicate <http://xmlns.com/foaf/0.1/name>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/TEMP/FILE/PUCESI/{C001_ID}"
+              ] .
+
+<#TriplesMapC002>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT ID_RECORD AS C002_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTCSV' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'creator'"
+              ] ;
+      rr:subjectMap
+              [ rr:class <http://purl.org/ontology/bibo/Document> ;
+                rr:template "http://REDI/TEMP/FILE/PUCESI/{C002_ID}"
+              ] .

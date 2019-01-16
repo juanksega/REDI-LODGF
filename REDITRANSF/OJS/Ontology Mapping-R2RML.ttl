@@ -1,0 +1,324 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rr:      <http://www.w3.org/ns/r2rml#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<#TriplesMapA002>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A002_DATA, ID_RECORD AS C002_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'Nombre'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A002_DATA"
+                        ] ;
+                rr:predicate <http://xmlns.com/foaf/0.1/givenName>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C002_ID}"
+              ] .
+
+<#TriplesMapC005>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT ID_RECORD AS C005_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'After'"
+              ] ;
+      rr:subjectMap
+              [ rr:class <http://xmlns.com/foaf/0.1/Person> ;
+                rr:template "http://REDI/Temporal/UCUENCA/{C005_ID}"
+              ] .
+
+<#TriplesMapA003>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A003_DATA, ID_RECORD AS C002_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'NombreCreator'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A003_DATA"
+                        ] ;
+                rr:predicate <http://xmlns.com/foaf/0.1/name>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C002_ID}"
+              ] .
+
+<#TriplesMapC004>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS C004_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'After'"
+              ] ;
+      rr:subjectMap
+              [ rr:class <http://xmlns.com/foaf/0.1/Agent> ;
+                rr:template "http://REDI/Temporal/UCUENCA/{C004_ID}"
+              ] .
+
+<#TriplesMapA009>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A009_DATA, ID_RECORD AS C003_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'NombreContributor'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A009_DATA"
+                        ] ;
+                rr:predicate <http://xmlns.com/foaf/0.1/name>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C003_ID}"
+              ] .
+
+<#TriplesMapR004>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT ID_RECORD AS C005_ID, DATA AS C004_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'After'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:template "http://REDI/Temporal/UCUENCA/{C004_ID}"
+                        ] ;
+                rr:predicate <http://purl.org/dc/terms/isVersionOf>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C005_ID}"
+              ] .
+
+<#TriplesMapIR003>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS C003_ID, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'contributor'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+                        ] ;
+                rr:predicate <http://rdaregistry.info/Elements/a/P50161>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C003_ID}"
+              ] .
+
+<#TriplesMapR005>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT ID_RECORD AS C001_ID, DATA AS C003_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'contributor'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:template "http://REDI/Temporal/UCUENCA/{C003_ID}"
+                        ] ;
+                rr:predicate <http://purl.org/dc/terms/contributor>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapA001>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A001_DATA, ID_RECORD AS C002_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'Apellido'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A001_DATA"
+                        ] ;
+                rr:predicate <http://xmlns.com/foaf/0.1/familyName>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C002_ID}"
+              ] .
+
+<#TriplesMapIR002>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS C002_ID, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'creator'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+                        ] ;
+                rr:predicate <http://rdaregistry.info/Elements/a/P50195>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C002_ID}"
+              ] .
+
+<#TriplesMapC006>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT ID_RECORD AS C006_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'type' AND DATA LIKE 'Article'"
+              ] ;
+      rr:subjectMap
+              [ rr:class <http://purl.org/ontology/bibo/Article> ;
+                rr:template "http://REDI/Temporal/UCUENCA/{C006_ID}"
+              ] .
+
+<#TriplesMapA006>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A006_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'description'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A006_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/dc/terms/abstract>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapR001>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT ID_RECORD AS C001_ID, DATA AS C002_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'creator'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:template "http://REDI/Temporal/UCUENCA/{C002_ID}"
+                        ] ;
+                rr:predicate <http://purl.org/dc/terms/creator>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapA012>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A012_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'identifierISBN'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A012_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/ontology/bibo/isbn>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapA011>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A011_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'identifierISSN'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A011_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/ontology/bibo/issn>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapC001>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'identifier'"
+              ] ;
+      rr:subjectMap
+              [ rr:class <http://purl.org/ontology/bibo/Document> ;
+                rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapA007>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A007_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'date'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A007_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/ontology/bibo/issue>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapA008>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A008_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'identifier'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A008_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/ontology/bibo/uri>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapA010>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A010_DATA, ID_RECORD AS C002_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'affiliation'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A010_DATA"
+                        ] ;
+                rr:predicate <http://rdaregistry.info/Elements/u/P60095>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C002_ID}"
+              ] .
+
+<#TriplesMapA004>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A004_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'title'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A004_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/dc/terms/title>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapA014>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A014_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'source'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A014_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/dc/terms/source>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapC003>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS C003_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'contributor'"
+              ] ;
+      rr:subjectMap
+              [ rr:class <http://xmlns.com/foaf/0.1/Person> ;
+                rr:template "http://REDI/Temporal/UCUENCA/{C003_ID}"
+              ] .
+
+<#TriplesMapA005>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A005_DATA, ID_RECORD AS C001_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'subject'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A005_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/dc/terms/subject>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C001_ID}"
+              ] .
+
+<#TriplesMapC002>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS C002_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'creator'"
+              ] ;
+      rr:subjectMap
+              [ rr:class <http://xmlns.com/foaf/0.1/Person> ;
+                rr:template "http://REDI/Temporal/UCUENCA/{C002_ID}"
+              ] .
+
+<#TriplesMapA015>
+      rr:logicalTable
+              [ rr:sqlQuery "SELECT DATA AS A015_DATA, ID_RECORD AS C002_ID FROM OAIPMHDATA WHERE TRANSID = 'EXTOJS' AND STEPID = 'DATA PRECATCHING' AND FIELD LIKE 'IDorcid'"
+              ] ;
+      rr:predicateObjectMap
+              [ rr:objectMap
+                        [ rr:column "A015_DATA"
+                        ] ;
+                rr:predicate <http://purl.org/spar/scoro/hasORCID>
+              ] ;
+      rr:subjectMap
+              [ rr:template "http://REDI/Temporal/UCUENCA/{C002_ID}"
+              ] .
